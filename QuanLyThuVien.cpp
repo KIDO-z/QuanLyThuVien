@@ -1,5 +1,9 @@
 #include <iostream>
+<<<<<<< HEAD
 #include<string>
+=======
+#include <string>
+>>>>>>> e180b21158f42ab0f8ccb33a25772afa76f61b49
 using namespace std;
 
 
